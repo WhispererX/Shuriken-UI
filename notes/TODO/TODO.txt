@@ -1,0 +1,16 @@
+Planned :
+- backgroundSprite property
+
+Doing :
+
+
+Done:
+- Text()
+- Button()
+- Checkbox()
+- Radio()
+- RadioGroup()
+- Slider()
+- Input()
+- ColorPicker()
+- Dropdown()
