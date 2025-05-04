@@ -29,4 +29,4 @@ With built-in support for dynamic layouting, skinning, event handling, and anima
 J
 ## Join our Discord
 If you'd like to contribute to Shuriken UI, suggest new features, or need support and assistance, we’d love to hear from you!
-Join our community on (Discord)[https://discord.gg/jyNeaYSBXg]:
+Join our community on [Discord](https://discord.gg/jyNeaYSBXg):
